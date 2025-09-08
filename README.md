@@ -2,21 +2,6 @@
 
 A React-based URL shortening application that allows users to create shortened URLs with custom expiry times, optional shortcodes, and detailed click analytics.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Models](#data-models)
-- [Architecture](#architecture)
-- [Testing](#testing)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 - **URL Shortening**: Convert long URLs into short, manageable links
@@ -30,10 +15,10 @@ A React-based URL shortening application that allows users to create shortened U
 ## 📸 Screenshots
 
 ### Main Application Interface
-![Main Interface](./screenshots/main-interface.png)
+![Desktop View](./screenshots/Screenshot 2025-09-08 144323.png)
 
 ### Statistics Dashboard
-![Statistics Dashboard](./screenshots/stats-dashboard.png)
+![Statistics Dashboard](./screenshots/Screenshot 2025-09-08 144323.png)
 
 ## 🛠 Technology Stack
 
