@@ -14,10 +14,10 @@ A React-based URL shortening application that allows users to create shortened U
 
 ## 📸 Screenshots
 
-### Main Application Interface
+### Desktop View
 ![Desktop View](./Frontend_Test_Submission/screenshot/desktop_view.png)
 
-### Statistics Dashboard
+### Mobile View
 ![Statistics Dashboard](./Frontend_Test_Submission/screenshot/mobile_view.png)
 
 ## 🛠 Technology Stack
