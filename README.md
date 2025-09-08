@@ -89,21 +89,17 @@ url-shortener/
 ├── public/
 │   ├── index.html
 │   └── favicon.ico
+├── screenshot/
+│   ├── mobile_view.png
+│   └── desktop_view.png
 ├── src/
 │   ├── components/
-│   │   ├── App.js              # Root component with global state
 │   │   ├── ShortenForm.js      # URL shortening form
 │   │   ├── ShortUrlCard.js     # Individual URL display card
 │   │   ├── Stats.js            # Click analytics component
 │   │   └── Logs.js             # System logs component
-│   ├── styles/
-│   │   └── index.css           # Global styles and Tailwind imports
-│   ├── utils/
-│   │   └── helpers.js          # Utility functions
 │   └── index.js                # Application entry point
-├── screenshots/                # Application screenshots
-│   ├── main-interface.png
-│   └── stats-dashboard.png
+│   └── app.js                
 ├── package.json
 └── README.md
 ```
